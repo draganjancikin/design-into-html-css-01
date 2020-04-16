@@ -1,4 +1,4 @@
-# design-into-html-css-01
+# Design into HTML & CSS
 Turn Adobe XD design into a html/css
 
 ## 
